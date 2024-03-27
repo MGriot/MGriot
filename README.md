@@ -2,6 +2,7 @@
 - 👀 I’m interested in stitistics and chemistry
 - 🌱 I’m currently learning environmental chemistry
 - 📫 How to reach me on Reddit at u/Mat4297
+- on Pastebin https://pastebin.com/u/Mat4297 
 
 <!---
 mat4297/mat4297 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
