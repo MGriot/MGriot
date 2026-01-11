@@ -10,19 +10,19 @@ mat4297/mat4297 is a ✨ special ✨ repository because its `README.md` (this fi
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MGriot&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy-one.vercel.app/?username=MGriot&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-[![MGriot's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGriot&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGriot&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![MGriot's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MGriot&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MGriot&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MGriot&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MGriot&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MGriot&theme=dracula)
+![](https://github-profile-summary-cards-seven.vercel.app/api/cards/profile-details?username=MGriot&theme=dracula)
 
 </div>
