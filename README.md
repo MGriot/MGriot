@@ -19,7 +19,7 @@ mat4297/mat4297 is a ✨ special ✨ repository because its `README.md` (this fi
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MGriot&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-two.vercel.app/?user=MGriot&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br/>
 
